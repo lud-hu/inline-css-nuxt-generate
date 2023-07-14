@@ -1,2 +1,1 @@
-# inline-css-nuxt-generate
-Created with CodeSandbox
+Reproduction repository for an issue with css extraction during `nuxt generate`.
